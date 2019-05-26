@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-    //Printare "Hello" in consola, iar pe rand nou numele:
+      //Printare "Hello" in consola, iar pe rand nou numele:
       System.out.println("Hello");
       System.out.println("Lucia");
 
