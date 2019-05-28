@@ -19,13 +19,13 @@ public class Main {
 
       //Printare rezultat operatiuni:
       byte a=-5 + 8 * 6;
-      System.out.println(a);
+      System.out.println("a=" + a);
       byte b=(55+9) % 9;
-      System.out.println(b);
+      System.out.println("b=" + b);
       float c=20 + -3*5 / 8f;
-      System.out.println(c);
+      System.out.println("c=" + c);
       byte d=5 + 15 / 3 * 2 - 8 % 3;
-      System.out.println(d);
+      System.out.println("d=" + d);
 
     }
 }
