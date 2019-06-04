@@ -1,4 +1,4 @@
- package com.company.lab2.Calculator;
+package com.company.lab2.Calculator;
 
 public class Main {
 
@@ -39,7 +39,7 @@ public class Main {
         double printMeters=meters(77.5);
         System.out.println(printMeters + " metrii.");
 
-        double printVitezaMetriiSecunda=viteza(1500.00,1,25,27);
+        calculViteza(1500.00,1,25,27);
     }
     public static void printHello() {
         System.out.println("Hello\nLucia");
@@ -117,14 +117,14 @@ public class Main {
         double result=inch*0.0254;
         return result;
     }
-    public static double viteza(double m, double ore, double min, double s){
+    public static void calculViteza(double m, double ore, double min, double s){
         double metriiSecunda=m/(ore*360+min*60+s);
         double kilometriiOra=(m/1000)/(ore+min/60+s/360);
         double mileOra=(m/1609)/(ore+min/60+s/360);
         System.out.println("Viteza in metrii pe secunda:" + metriiSecunda +" m/s;");
         System.out.println("Viteza in kilometrii pe ora:" + kilometriiOra +" km/ora;");
         System.out.println("Viteza in mile pe ora:" + mileOra +" mile/ora;");
-        return metriiSecunda;
+        return;
     }
 
 }

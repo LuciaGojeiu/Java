@@ -7,10 +7,10 @@ public class Pet {
     int hungerLevel=2;
     int moodLevel=9;
 
-    public void favoriteFood(){
-        System.out.println("She is eating Pedigree.");
+    public void favoriteFood() {
+        System.out.println("The pet is eating Pedigree.");
     }
-    public void favoritePlay(){
+    public void favoriteActivity(){
         System.out.println("She likes to run.");
     }
 }
