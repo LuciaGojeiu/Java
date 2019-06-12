@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12478e5-8e87-49c1-8ab8-ac07ba96ffbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Adopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Vet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab3/Calculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Adopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Adopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Vet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab2/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab2/Calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,15 +17,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="140" column="40" lean-forward="true" selection-start-line="140" selection-start-column="40" selection-end-line="140" selection-end-column="40" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="1207">
               <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
             </state>
           </provider>
@@ -365,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559667771687</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit tema LogicalOp">
+      <created>1560351620204</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560351620204</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -380,7 +377,7 @@
   <component name="ToolWindowManager">
     <frame x="10" y="14" width="1346" height="694" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33048213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3413686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,13 +386,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32740214" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32740214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291815" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3291815" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32740214" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -443,7 +440,8 @@
     <MESSAGE value="Commit tema Calculator" />
     <MESSAGE value="Commit tema AnimalRescue" />
     <MESSAGE value="Commit tema Calculator 04.06.2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit tema Calculator 04.06.2019" />
+    <MESSAGE value="Commit tema LogicalOp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit tema LogicalOp" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -572,20 +570,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/KeyboardData/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/KeyboardData/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="341">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>

@@ -137,8 +137,8 @@ public class LogicalOp {
     }
     public void division(){
         System.out.println("Introduceti va rog 2 numere: ");
-        double first=scan.nextInt();
-        double second=scan.nextInt();
+        double first=scan.nextDouble();
+        double second=scan.nextDouble();
         double div=first/second;
         System.out.println("Rezultatul impartirii " + first +" la " + second + " este: " + div);
     }
