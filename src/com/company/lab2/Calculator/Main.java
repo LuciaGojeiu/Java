@@ -26,7 +26,7 @@ public class Main {
         printJavaModelLN();
 
         float averageCalculator = nrAverage(3.5f,3,4.9f);
-        System.out.println("Media Numerelor este:" + averageCalculator);
+        System.out.println("Media numerelor este:" + averageCalculator);
 
         printModel();
 
@@ -118,13 +118,12 @@ public class Main {
         return result;
     }
     public static void calculViteza(double m, double ore, double min, double s){
-        double metriiSecunda=m/(ore*360+min*60+s);
-        double kilometriiOra=(m/1000)/(ore+min/60+s/360);
-        double mileOra=(m/1609)/(ore+min/60+s/360);
+        double metriiSecunda=m/(ore*3600+min*60+s);
+        double kilometriiOra=(m/1000)/(ore+min/60+s/3600);
+        double mileOra=(m/1609)/(ore+min/60+s/3600);
         System.out.println("Viteza in metrii pe secunda:" + metriiSecunda +" m/s;");
         System.out.println("Viteza in kilometrii pe ora:" + kilometriiOra +" km/ora;");
         System.out.println("Viteza in mile pe ora:" + mileOra +" mile/ora;");
-        return;
     }
 
 }

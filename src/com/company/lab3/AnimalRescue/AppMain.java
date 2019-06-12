@@ -1,6 +1,6 @@
-package com.company.lab2.AnimalRescue;
+package com.company.lab3.AnimalRescue;
 
-public class Main {
+public class AppMain {
     public static void main(String[] args) {
         Pet layla = new Pet();
         System.out.println(layla.petName);
