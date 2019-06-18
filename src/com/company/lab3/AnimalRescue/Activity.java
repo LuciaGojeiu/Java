@@ -12,14 +12,20 @@ public class Activity{
       return activityName;
    }
 
-
    public void setActivityTime(int activityTime) {
+
       this.activityTime = activityTime;
    }
    public int getActivityTime() {
+
       return activityTime;
    }
 
-
+   public void play(){
+      System.out.println("The dog is playing fetch");
+   }
+   public void run(){
+      System.out.println("The dog is running fast");
+   }
 }
 

@@ -9,7 +9,6 @@ public class Adopter {
         this.adopterName=adopterName;
     }
     public String getAdopterName(){
-
         return adopterName;
     }
 
@@ -21,11 +20,9 @@ public class Adopter {
     }
 
     public void setAdopterAge(int adopterAge){
-
         this.adopterAge=adopterAge;
     }
-    public int getAdopterAge()
-    {
+    public int getAdopterAge() {
         return adopterAge;
     }
 }

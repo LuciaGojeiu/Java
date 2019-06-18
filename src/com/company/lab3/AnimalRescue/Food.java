@@ -9,12 +9,11 @@ public class Food {
     public void setFoodName(String foodName) {
         this.foodName = foodName;
     }
-    public String getFoodName(){
+    public String getFoodName() {
         return foodName;
     }
 
     public void setFoodPrice(int foodPrice){
-
         this.foodPrice=foodPrice;
     }
     public int getFoodPrice(){
@@ -24,17 +23,16 @@ public class Food {
     public void setFoodQuantity(int foodQuantity){
         this.foodQuantity=foodQuantity;
     }
-    public int getFoodQuantity()
-    {
+    public int getFoodQuantity(){
         return foodQuantity;
     }
 
     public void setFoodCart( int foodCart){
-
         this.foodCart=foodCart;
     }
     public int getFoodCart() {
         return foodCart;
     }
+
 
 }

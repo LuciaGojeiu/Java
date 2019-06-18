@@ -57,4 +57,8 @@ public class Dog {
     public String getFavoriteActivity() {
         return favoriteActivity;
     }
+
+    public void eat(){
+        System.out.println("The dog is eating a lot of food.");
+    }
 }

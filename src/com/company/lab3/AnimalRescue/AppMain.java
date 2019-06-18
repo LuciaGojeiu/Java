@@ -5,7 +5,7 @@ public class AppMain {
         Dog layla = new Dog();
         layla.setName("Layla");
         System.out.println(layla.getName());
-        layla.setAge(2);
+        layla.setAge(5);
         System.out.println(layla.getAge());
         layla.setHealthLevel(9);
         System.out.println(layla.getHealthLevel());
@@ -17,6 +17,7 @@ public class AppMain {
         System.out.println(layla.getFavoriteActivity());
         layla.setFavoriteFood("Pedigree");
         System.out.println(layla.getFavoriteFood());
+        layla.eat();
 
         Adopter penny = new Adopter();
         penny.setAdopterName("Penny");
@@ -36,17 +37,25 @@ public class AppMain {
         purina.setFoodCart(22);
         System.out.println(purina.getFoodCart());
 
-        Activity walk = new Activity();
-        walk.setActivityName("Walk");
-        System.out.println(walk.getActivityName());
-        walk.setActivityTime(10);
-        System.out.println(walk.getActivityTime());
+        Activity homeActivity = new Activity();
+        homeActivity.setActivityName("Run");
+        System.out.println(homeActivity.getActivityName());
+        homeActivity.setActivityTime(10);
+        System.out.println(homeActivity.getActivityTime());
+        homeActivity.run();
+        Activity homeActivity2=new Activity();
+        homeActivity2.setActivityName("Play");
+        System.out.println(homeActivity2.getActivityName());
+        homeActivity2.setActivityTime(5);
+        System.out.println(homeActivity2.getActivityTime());
+        homeActivity.play();
 
         Vet john= new Vet();
         john.setVetName("John");
         System.out.println(john.getVetName());
         john.setVetSpecialization("Immunology");
         System.out.println(john.getVetSpecialization());
-
+        john.setVetAge(40);
+        System.out.println(john.getVetAge());
     }
 }
