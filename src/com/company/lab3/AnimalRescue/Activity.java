@@ -1,4 +1,4 @@
-package com.company.lab3.AnimalRescue;
+  package com.company.lab3.AnimalRescue;
 
 public class Activity{
 

@@ -100,17 +100,21 @@ public class LogicalOp {
 
     public boolean isNumberEven(int numberE) {
         if (numberE % 2 == 0) {
-            return true;
+            boolean result=true;
+            return result;
         } else {
-            return false;
+            boolean result=false;
+            return result;
         }
     }
 
     public boolean isEligibleToVote(int age) {
         if (age >= 18) {
-            return true;
+            boolean result=true;
+            return result;
         } else {
-            return false;
+            boolean result=false;
+            return result;
         }
     }
 
