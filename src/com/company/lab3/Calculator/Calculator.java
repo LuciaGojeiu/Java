@@ -2,31 +2,6 @@ package com.company.lab3.Calculator;
 
 public class Calculator {
 
-    public void printHello() {
-        System.out.println("Hello\nLucia");
-    }
-
-    public byte printA() {
-        byte result = -5 + 8 * 6;
-        return result;
-    }
-
-    public byte printB() {
-        byte result = (55 + 9) % 9;
-        return result;
-    }
-
-    public float printC() {
-        float result = 20 + -3 * 5 / 8f;
-        return result;
-    }
-
-    public byte printD() {
-        byte result = 5 + 15 / 3 * 2 - 8 % 3;
-        return result;
-    }
-
-
     public int sum(int firstNumber, int secondNumber) {
         int result = firstNumber + secondNumber;
         return result;
