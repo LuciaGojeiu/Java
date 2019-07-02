@@ -25,22 +25,23 @@ public class Main {
         printJavaModel();
         printJavaModelLN();
 
-        float averageCalculator = nrAverage(3.5f,3,4.9f);
+        float averageCalculator = nrAverage(3.5f, 3, 4.9f);
         System.out.println("Media numerelor este:" + averageCalculator);
 
         printModel();
 
-        int printModulo=modulo(5,2);
+        int printModulo = modulo(5, 2);
         System.out.println("Restul impartirii este:" + printModulo);
 
-        float printTempCelsius=tempCelsius(70);
+        float printTempCelsius = tempCelsius(70);
         System.out.println(printTempCelsius + " grade Celsius.");
 
-        double printMeters=meters(77.5);
+        double printMeters = meters(77.5);
         System.out.println(printMeters + " metrii.");
 
-        calculViteza(1500.00,1,25,27);
+        calculViteza(1500.00, 1, 25, 27);
     }
+
     public static void printHello() {
         System.out.println("Hello\nLucia");
     }
@@ -97,35 +98,39 @@ public class Main {
         System.out.println("\n   J    a    v     v   a\n   J   a a    v   v   a a\nJ  J  aaaaa    v v   aaaaa\n JJ  a     a    v   a     a");
 
     }
-    public static float nrAverage(float x, float y, float z){
-        float result =(x + y + z)/3;
+
+    public static float nrAverage(float x, float y, float z) {
+        float result = (x + y + z) / 3;
         return result;
     }
-    public static void printModel(){
+
+    public static void printModel() {
         System.out.println(" +\"\"\"\"\"+\n[| o o |]\n |  ^  | \n | \'_\' |\n +-----+");
 
     }
-    public static int modulo(int a, int b){
-        int result=a%b;
+
+    public static int modulo(int a, int b) {
+        int result = a % b;
         return result;
     }
-    public static float tempCelsius(float tempF){
-        float result=5f / 9* (tempF - 32);
+
+    public static float tempCelsius(float tempF) {
+        float result = 5f / 9 * (tempF - 32);
         return result;
     }
-    public static double meters(double inch){
-        double result=inch*0.0254;
+
+    public static double meters(double inch) {
+        double result = inch * 0.0254;
         return result;
     }
-    public static void calculViteza(double m, double ore, double min, double s){
-        double metriiSecunda=m/(ore*3600+min*60+s);
-        double kilometriiOra=(m/1000)/(ore+min/60+s/3600);
-        double mileOra=(m/1609)/(ore+min/60+s/3600);
-        System.out.println("Viteza in metrii pe secunda:" + metriiSecunda +" m/s;");
-        System.out.println("Viteza in kilometrii pe ora:" + kilometriiOra +" km/ora;");
-        System.out.println("Viteza in mile pe ora:" + mileOra +" mile/ora;");
+
+    public static void calculViteza(double m, double ore, double min, double s) {
+        double metriiSecunda = m / (ore * 3600 + min * 60 + s);
+        double kilometriiOra = (m / 1000) / (ore + min / 60 + s / 3600);
+        double mileOra = (m / 1609) / (ore + min / 60 + s / 3600);
+        System.out.println("Viteza in metrii pe secunda:" + metriiSecunda + " m/s;");
+        System.out.println("Viteza in kilometrii pe ora:" + kilometriiOra + " km/ora;");
+        System.out.println("Viteza in mile pe ora:" + mileOra + " mile/ora;");
     }
 
 }
-
-
