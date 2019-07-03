@@ -6,6 +6,20 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
+
+        Calculator calculator=new Calculator();
+        System.out.println(calculator.sum(5,10));
+        System.out.println(calculator.sum(5.7,2.3, 7.1));
+        System.out.println(calculator.substract(50,10));
+        System.out.println(calculator.substract(70, 25.7f));
+        System.out.println(calculator.multiply(10,3));
+        System.out.println(calculator.multiply(2.2, 5.7, 3.9));
+        System.out.println(calculator.division(500,10));
+        System.out.println(calculator.division(25.7f,2));
+        System.out.println(calculator.modulo(77,9));
+        System.out.println(calculator.modulo(23.5f,53.2f));
+
+
         LogicalOp op = new LogicalOp();
         int[] myArray = op.getArrayToHundred();
         for (int i = 0; i < myArray.length; i++) {
