@@ -40,7 +40,7 @@ public class Main {
         myStringList.add("cd");
         myStringList.add("de");
         myStringList.add("ef");
-        System.out.println(op.doStringList(myStringList,2,"bc"));
+        System.out.println(op.doStringList(myStringList,1,"bc"));
 
         List<Integer> myIntList=new ArrayList<>();
         myIntList.add(10);
@@ -49,6 +49,7 @@ public class Main {
         myIntList.add(19);
         myIntList.add(24);
         System.out.println(op.doIntegerList(myIntList,9));
+        System.out.println(op.doIntegerListB(myIntList,11));
 
         op.printList(myIntList);
 
@@ -60,6 +61,18 @@ public class Main {
         myIntListB.add(85);
         System.out.println("Cel mai mare numar din lista este "+ op.checkMaxList(myIntListB));
 
+        System.out.println(op.switchValues(myIntListB,55,85));
+        System.out.println(op.evenList(myIntListB));
+
+         List<Integer> myIntListC=new ArrayList<>();
+         myIntListC.add(3);
+         myIntListC.add(2);
+         myIntListC.add(4);
+         myIntListC.add(5);
+         myIntListC.add(8);
+         myIntListC.add(6);
+         myIntListC.add(7);
+         System.out.println(op.sortList(myIntListC));
 
     }
 }
