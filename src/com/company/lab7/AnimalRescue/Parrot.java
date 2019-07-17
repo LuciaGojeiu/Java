@@ -1,4 +1,4 @@
-package com.company.lab5.AnimalRescue;
+package com.company.lab7.AnimalRescue;
 
 public class Parrot extends Bird {
     public void talk(){

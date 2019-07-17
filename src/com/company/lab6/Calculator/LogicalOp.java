@@ -102,7 +102,7 @@ public class LogicalOp {
 
      public List<Integer> sortList(List<Integer> myListC){
          for(int i=0;i<myListC.size();i++) {
-             for (int j = i + 1; j < myListC.size(); j++) {
+             for (int j = i+1; j < myListC.size(); j++) {
                  if (myListC.get(i) > myListC.get(j)) {
                      int x = myListC.get(i);
                      int y = myListC.get(j);

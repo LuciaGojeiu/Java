@@ -1,19 +1,11 @@
 package com.company.lab6.AnimalRescue;
 
-public class Parrot extends Animal {
-    private String feathers;
-
-    public String getFeathers() {
-        return feathers;
-    }
-
-    public void setFeathers(String feathers) {
-        this.feathers = feathers;
-    }
-
+public class Parrot extends Bird {
     public void talk(){
         System.out.println("Hello!");
     }
-
+    public void talkT(){
+        System.out.println("Hello! Hello!");
+    }
 
 }

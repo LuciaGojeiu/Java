@@ -1,6 +1,6 @@
 package com.company.lab6.AnimalRescue;
 
-public class Animal {
+public abstract class Animal {
     private String name;
     private int age;
     private int healthLevel;
@@ -58,7 +58,7 @@ public class Animal {
         return favoriteActivity;
     }
 
-    public void eat(){
-        System.out.println("The animal is eating a lot of food.");
-    }
+    public abstract void eat();
+    public abstract void talk();
+
 }

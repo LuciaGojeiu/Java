@@ -1,4 +1,4 @@
-package com.company.lab5.AnimalRescue;
+package com.company.lab7.AnimalRescue;
 
 public class AppMain {
     public static void main(String[] args) {
@@ -63,6 +63,7 @@ public class AppMain {
         Parrot tom=new Parrot();
         tom.talk();
         tom.talkT();
+        tom.eat();
 
         Bird tim=new Parrot();
         tim.talk();

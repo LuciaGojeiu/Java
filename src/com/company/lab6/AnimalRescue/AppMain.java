@@ -40,7 +40,7 @@ public class AppMain {
         System.out.println(abby.getClaws());
         abby.meow();
 
-        Parrot tweety = new Parrot();
+        Bird tweety = new Bird();
         tweety.setName("Tweety");
         System.out.println(tweety.getName());
         tweety.setAge(1);
@@ -59,6 +59,19 @@ public class AppMain {
         tweety.setFeathers("ColorfulFeathers");
         System.out.println(tweety.getFeathers());
         tweety.talk();
+
+        Parrot tom=new Parrot();
+        tom.talk();
+        tom.talkT();
+        tom.eat();
+
+        Bird tim=new Parrot();
+        tim.talk();
+        tim.eat();
+
+        Animal todd=new Parrot();
+        todd.talk();
+        todd.eat();
 
         Adopter penny = new Adopter();
         penny.setAdopterName("Penny");

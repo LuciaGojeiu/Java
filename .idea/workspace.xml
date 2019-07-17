@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12478e5-8e87-49c1-8ab8-ac07ba96ffbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab6/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Adopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Vet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Adopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Adopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Vet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/Calculator/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +50,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="113" column="21" lean-forward="true" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,14 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -60,17 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/.gitignore" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab1/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Food.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/PlayActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/Calculator/Scanner.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/Calculator/ScannerData.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/KeyboardData/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Activity.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Pet.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Vet.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Adopter.java" />
@@ -97,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Parrot.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/AppMain.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab2/Calculator/Calculator.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab2/Calculator/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab5/Calculator/Calculator.java" />
@@ -107,6 +130,22 @@
         <option value="$PROJECT_DIR$/src/com/company/lab5/Calculator/LogicalOp.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab6/Calculator/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Bird.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/Calculator/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Bird.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java" />
       </list>
     </option>
   </component>
@@ -128,8 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,40 +190,58 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="lab6" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="lab6" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="lab7" type="462c0819:PsiDirectoryNode" />
               <item name="Calculator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/lab6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/lab7/Calculator" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.lab6.Calculator" />
       <recent name="com.company.lab6" />
       <recent name="com.company.lab5.Calculator" />
       <recent name="com.company.lab2.Calculator" />
       <recent name="com.company.lab4.AnimalRescue" />
-      <recent name="com.company.lab3.Calculator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\documente\testare\Java\src\com\company\lab7\Calculator" />
+      <recent name="C:\documente\testare\Java\src\com\company\lab7" />
       <recent name="C:\documente\testare\Java\src\com\company\lab6" />
       <recent name="C:\documente\testare\Java\src\com\company\lab5" />
       <recent name="C:\documente\testare\Java\src\com\company\lab4" />
-      <recent name="C:\documente\testare\Java\src\com\company\lab3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,26 +256,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab3.AnimalRescue.AppMain" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="AppMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab5.AnimalRescue.AppMain" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lab3.AnimalRescue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab4.AnimalRescue.AppMain" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.lab4.AnimalRescue.*" />
+          <option name="PATTERN" value="com.company.lab5.AnimalRescue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab3.Calculator.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab7.Calculator.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lab3.Calculator.*" />
+          <option name="PATTERN" value="com.company.lab7.Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.AppMain (1)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.AppMain" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562510660844</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Commit lab6 List">
+      <created>1562691116760</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1562691116760</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -485,7 +534,7 @@
     <frame x="10" y="14" width="1346" height="694" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38724726" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3437014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,7 +563,7 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32970452" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34681183" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3437014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -569,146 +618,21 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Food.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="500">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/AnimalRescue/Vet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/Calculator/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/KeyboardData/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Adopter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-            <element signature="e#1228#1229#0" expanded="true" />
-            <element signature="e#1284#1285#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/AnimalRescue/Vet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Calculator/LogicalOp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -722,20 +646,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Parrot.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Adopter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Vet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="e#511#512#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -746,10 +660,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Food.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="358">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -764,69 +685,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Adopter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Calculator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab3/Calculator/LogicalOp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab2/Calculator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Vet.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Vet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/AnimalRescue/Parrot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Calculator/LogicalOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -844,62 +734,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <caret line="64" column="53" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+          <folding>
+            <element signature="e#1489#1490#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Adopter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Vet.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Food.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Activity.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Food.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Adopter.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="76" column="4" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Food.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Activity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Cat.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Calculator/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Bird.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Dog.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Vet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Adopter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Activity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Animal.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -908,45 +900,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="293">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab5/Calculator/LogicalOp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="17">
+          <caret line="344" column="24" lean-forward="true" selection-start-line="344" selection-start-column="24" selection-end-line="344" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab4/Calculator/LogicalOp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+        <state relative-caret-position="17">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="113" column="21" lean-forward="true" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>

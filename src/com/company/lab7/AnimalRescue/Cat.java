@@ -1,4 +1,4 @@
-package com.company.lab6.AnimalRescue;
+package com.company.lab7.AnimalRescue;
 
 public class Cat extends Animal {
     private String claws;
