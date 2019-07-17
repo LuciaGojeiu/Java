@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12478e5-8e87-49c1-8ab8-ac07ba96ffbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab6/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Adopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Vet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/AppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab5/AnimalRescue/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Adopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Adopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/AppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Vet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/Calculator/LogicalOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="293">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -74,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -143,9 +114,9 @@
         <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Parrot.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab6/AnimalRescue/Bird.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab7/AnimalRescue/Animal.java" />
-        <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java" />
         <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java" />
       </list>
     </option>
   </component>
@@ -184,36 +155,6 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="lab5" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -518,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562691116760</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Commit lab7 Try Catch">
+      <created>1563373439928</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1563373439928</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -606,7 +554,8 @@
     <MESSAGE value="Commit lab5" />
     <MESSAGE value="Commit lab5 Array" />
     <MESSAGE value="Commit lab6 List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit lab6 List" />
+    <MESSAGE value="Commit lab7 Try Catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit lab7 Try Catch" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -918,13 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Read.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -935,10 +877,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/LogicalOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lab7/Calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="293">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>

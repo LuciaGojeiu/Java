@@ -19,6 +19,7 @@ public class Main {
         int[] myArrayA = {78, 89, 5, 6, 7, 50, 100};
         op.getNumberFromArray(myArrayA, 10);
 
-        op.waitS(5000);
+        op.waitA(5000);
+        op.waitB(7000);
     }
 }

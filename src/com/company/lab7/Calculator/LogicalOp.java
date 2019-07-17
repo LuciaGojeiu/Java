@@ -9,15 +9,20 @@ public class LogicalOp {
         }
     }
 
-    public void waitS(int x){
+    public void waitA(int x){
+        try {
+            Thread.sleep(x);
+        } catch (InterruptedException e){
+            System.out.println(e);
+        }
+    }
+
+    public void waitB(int x){
         try {
             Thread.sleep(x);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
     }
-
-
 
 }
